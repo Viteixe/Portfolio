@@ -1,0 +1,43 @@
+{
+  "name": "Dark Purple SaaS",
+  "dataColors": [
+    "#8B5CF6",
+    "#A78BFA",
+    "#22D3EE",
+    "#2DD4BF",
+    "#22C55E",
+    "#F43F5E"
+  ],
+  "background": "#1E1B2E",
+  "foreground": "#F8FAFC",
+  "tableAccent": "#8B5CF6",
+
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#26213A" } },
+            "transparency": 5
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ]
+      }
+    }
+  },
+
+  "textClasses": {
+    "title": {
+      "fontSize": 16,
+      "color": "#F8FAFC"
+    },
+    "label": {
+      "fontSize": 11,
+      "color": "#94A3B8"
+    }
+  }
+}
